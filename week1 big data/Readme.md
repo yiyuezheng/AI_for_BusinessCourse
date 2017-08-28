@@ -26,6 +26,7 @@ https://www.safaribooksonline.com/library/tutorials/big-data-ots/1971/
 * Most valuable commodity is now data:
 http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource
 * McKinsey Big Data summary paper in module.
+* Warnings about data from Angela Bassa: https://medium.com/@angebassa/data-alone-isnt-ground-truth-9e733079dfd4
 
 
 ## Other HW (answer in the quiz)

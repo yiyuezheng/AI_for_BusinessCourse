@@ -10,11 +10,12 @@
 
 ## Readings
 
+* Overview: https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses?CMP=share_btn_tw
 * European Right to an Explanation: https://arxiv.org/abs/1606.08813
 * How Big Data is Unfair: https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de
 * 6 Provocations for Big Data (pdf)
 * Surveillance Capitalism (Zuboff) (pdf)
-* https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/
+* Wired: https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/
 * Inspecting Algorithms for Bias (COMPAS) https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/
 * Machine Bias: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 * Automation impact on Jobs: http://mitsloan.mit.edu/newsroom/articles/when-the-automatons-explode/
