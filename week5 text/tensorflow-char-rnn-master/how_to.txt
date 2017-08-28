@@ -1,0 +1,3 @@
+# run the sampler:
+
+python sample.py --model_path=output_titles2/best_model/model-247440 --init_dir=output_titles2/ --start_text="The" 
