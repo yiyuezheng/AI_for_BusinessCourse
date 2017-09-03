@@ -33,13 +33,14 @@ Biases in Word Vectors:
 * Scientists Taught a Robot Language. It Immediately Turned Racist. https://www.buzzfeed.com/nidhisubbaraman/robot-racism-through-language?utm_term=.miZN1KPpe#.uyYDJlZGk
 * Man is to Computer Programmer as Woman is to Homemaker? Debiasing word embeddings, by Tolga Bolukbasi et al., working with Microsoft Research (pdf)
 * ConceptNet article on biases: https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/
+* Some useful tech review and info in Jurafsky and Martin (draft): http://web.stanford.edu/~jurafsky/slp3/8.pdf
 
 * Applications in business: 
 	* Le Bon Coin: http://bytes.schibsted.com/translating-words-vectors-embeddings/
 	* Style2Vec etc.
 * Check out fashion-mnist dataset.
 
-HW Presentations:
+## HW Presentations:
 
 What other "2vec" examples can you find?  What are they encoding? What bias might exist in this data?
 

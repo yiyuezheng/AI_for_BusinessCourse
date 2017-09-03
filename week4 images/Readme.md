@@ -48,6 +48,6 @@ Champagne or not? labels on data.  Retrain the inception model:
 
 ## Homework
 
-Ideas for business applications using image recognition or style transfer. Use carrefour if you want.
-Or art experiements you tried online.
+Ideas for business applications using image recognition or style transfer. Use Carrefour if you want.
+Or art experiments you tried online.
 

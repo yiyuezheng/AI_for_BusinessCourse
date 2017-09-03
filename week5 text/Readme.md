@@ -9,12 +9,15 @@
 * Demos:
 	* Show Show&Tell paper - image recognition plus LSTM generation of description.
 	* DeepMoji article and demo: https://www.technologyreview.com/s/608387/an-algorithm-trained-on-emoji-knows-when-youre-being-sarcastic-on-twitter/?set=608492, Demo: http://deepmoji.mit.edu/
+	* DeepL translator vs. Google translate: https://www.deepl.com/translator
 	* Char-RNN generator Karpathy: Recurrentjs in browser.
 	http://cs.stanford.edu/people/karpathy/recurrentjs/
 	* Janelle Shane's results: http://lewisandquark.tumblr.com/
 	* Writing app botnik: http://apps.botnik.org/voicebox/
+	* Piano music generator: https://tambien.github.io/deeplearnjs/demos/performance_rnn/
 
 ## Class Activity:
+
 * Train char-rnn or word-rnn models and show results.
 
 
@@ -32,6 +35,9 @@
 * Business Apps:
 	* https://venturebeat.com/2017/07/07/ai-and-bots-the-buzz-about-powerful-customer-loyalty-is-real-vb-live/
 	* Generate Drug Brand names using neural net: https://www.klick.com/health/news/blog/strategy/generating-drug-brand-names-with-neural-networks/?utm_content=bufferab184&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+	* Fun: http://www.montag.wtf/fun-with-neural-networks/
+	* DeepL article: https://techcrunch.com/2017/08/29/deepl-schools-other-online-translators-with-clever-machine-learning/
+	* New Google article/model: https://research.googleblog.com/2017/08/transformer-novel-neural-network.html
 
 
 ## HW
