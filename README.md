@@ -20,7 +20,7 @@ https://www.getrevue.co/profile/azeem
 
 Readings must be done before class.  Classes will not be lecture, but videos, activities, and demos.  All classes are required.  There is homework due from every class.
 
-There will be presentations by students every week on a specific topic. You will take notes on paper.  There will be quiz questions about these presentations as well as about the readings (I will be taking notes too).
+There will be presentations by students every week on a specific topic. You will take notes on paper just like I will.  There will be quiz questions about these presentations as well as about the readings.
 
 
 ## Weeks
@@ -43,15 +43,16 @@ Week 7:  Explainable AI, ML, and UI
 Week 8:  Biases and Ethics
 
 
-##  General References for learning more
+##  General References for Learning More
 
-There are books for free online, and books on Safari Online which will teach you coding.
+There are books for free online, and books on Safari Online which will teach you coding too.  Students at emlyon have access to Safari books through proquest:
 
+* [Safari Online](http://proquestcombo.safaribooksonline.com/). I recommend you get a free personal academic account to bookmark your books and chapters!
 * http://www.deeplearningbook.org/
 * http://neuralnetworksanddeeplearning.com/chap1.html
-* Udacity courses
-* fast.ai
-* Comparison of 2 courses:
+* [Udacity courses](https://www.udacity.com/pathfinder)
+* [fast.ai courses](http://www.fast.ai/)
+* Comparison of 2 online courses:
 https://medium.com/towards-data-science/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153
 * NLP Deep Learning course at Stanford:
 https://web.stanford.edu/class/cs224n/

@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=8pHzROP1D-w (quiz questions)
 Carrefour Ecully. What data do they have access to?
 What application could they make of it?  Brainstorm excercise, group with most items wins.
 
+Crowdsource organization data activity. 
+
 ## Readings (For Quiz)
 
 * What is Big Data on Safari Online.  https://www.safaribooksonline.com/library/tutorials/big-data-ots/1970/

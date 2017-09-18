@@ -1,3 +1,4 @@
+
 # Week2:  Machine Learning
 
 
@@ -6,13 +7,17 @@
 * Class presentations. (Fair game for quiz questions.)
 * Video, A Friendly Introduction to ML (Luis Serrano): https://www.youtube.com/watch?v=IpGxLWOIZy4
 * StitchFix algorithms: http://algorithms-tour.stitchfix.com/
+* A Visual Introduction to Machine Learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * Demo classifier(s) and clustering.
 
 ## Class Activities
 
-* Data labeling for classification algorithm.
+* Data labeling for classification algorithm.  Lynn runs it.
+
 Decision making problem.  What would you do with the false positives and false negatives.  What is their impact?
+
 * TODO: Wine dataset
+
 
 ## HW Reading (for Quiz)
 

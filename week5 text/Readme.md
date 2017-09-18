@@ -27,6 +27,7 @@
 * Roger Schank on AI bullshit (lack of real world knowledge): https://www.linkedin.com/pulse/press-has-stop-ai-bs-havent-clue-what-writing-roger-schank?trk=mp-reader-card
 * Good explanation: Understanding LSTM Networks, Chris Olah. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * Unreasonable effectiveness of RNN's: http://karpathy.github.io/2015/05/21/rnn-effectiveness/ - read on the the descriptions and extensions!
+* Helpful overview, hopefully: http://www.asimovinstitute.org/neural-network-zoo-prequel-cells-layers/?utm_content=buffer17596&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * Chris Manning overviews: 
 	Watch / read Stanford lecture:
 	* https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1

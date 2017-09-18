@@ -7,6 +7,7 @@
 * Video: Friendly Intro to NeuralNets: https://www.youtube.com/watch?v=BR9h47Jtqyw
 * Demo of math inside: https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
 * Demo of weights and simple error: http://www.emergentmind.com/neural-network
+
 * tensorflow demos: http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.17251&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
 * Karpathy's demo:
 http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
@@ -15,9 +16,15 @@ http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
 
 ## Class activities
 
-Run logistic regression vs neural net. Results?  (Replace data.)
-Carrefour ML applications now?
-Start working on homework research.
+Run logistic regression vs neural net. Results? (Iris example from Safari Online: https://www.safaribooksonline.com/oriole/getting-started-with-deep-learning-using-keras-and-python)
+
+Titanic: https://blog.socialcops.com/engineering/machine-learning-python/
+
+* Carrefour ML applications now?
+* Start working on homework research.
+
+* Demo/do live example: https://www.datacamp.com/community/tutorials/deep-learning-python#gs.iUvB_wU
+
 
 
 ## Readings for quiz
