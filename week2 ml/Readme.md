@@ -6,17 +6,21 @@
 
 * Class presentations. (Fair game for quiz questions.)
 * Video, A Friendly Introduction to ML (Luis Serrano): https://www.youtube.com/watch?v=IpGxLWOIZy4
-* StitchFix algorithms: http://algorithms-tour.stitchfix.com/
 * A Visual Introduction to Machine Learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+* StitchFix algorithms: http://algorithms-tour.stitchfix.com/
 * Demo classifier(s) and clustering.
 
 ## Class Activities
 
-* Data labeling for classification algorithm.  Lynn runs it.
+Titanic survival activity. Based on article and tree here: https://blog.socialcops.com/engineering/machine-learning-python/
+
+Also review this in class: Examples of trees: https://www.safaribooksonline.com/library/view/introduction-to-machine/9781449369880/ch02.html#decision-trees
+
+* Data labeling for classification algorithm.  Lynn runs it afterward.
 
 Decision making problem.  What would you do with the false positives and false negatives.  What is their impact?
 
-* TODO: Wine dataset
+* Titanic, housing data.
 
 
 ## HW Reading (for Quiz)
@@ -38,4 +42,4 @@ https://worldwritable.com/
 * Naive Bayes
 * Precision/Recall
 * SVM's
-* Decision Trees - find some more examples.
+* Decision Trees - find some more examples and talk us thru them

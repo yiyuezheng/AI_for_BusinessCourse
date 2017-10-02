@@ -15,10 +15,16 @@ https://www.youtube.com/watch?v=8pHzROP1D-w (quiz questions)
 
 ## Class Activities
 
-Carrefour Ecully. What data do they have access to?
-What application could they make of it?  Brainstorm excercise, group with most items wins.
+Crowdsource organization data activity.
 
-Crowdsource organization data activity. 
+Carrefour Ecully. What data do they have access to?
+What applications could they make from it?  Brainstorm excercise, group with most items wins.
+
+2 article with methods: 
+
+* https://www.wrike.com/blog/techniques-effective-brainstorming/
+* https://business.tutsplus.com/articles/top-brainstorming-techniques--cms-27181
+
 
 ## Readings (For Quiz)
 
@@ -36,5 +42,6 @@ http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach
 * Find some datasets hosted on Amazon or Google. Do some research on datasets.  Find at least one containing over a GB of data.
 * Group presentation assignments:
 Spark, BigQuery - how are they different from Hadoop?
+
 
 
