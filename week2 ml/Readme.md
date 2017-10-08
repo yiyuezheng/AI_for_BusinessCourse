@@ -8,7 +8,7 @@
 * Video, A Friendly Introduction to ML (Luis Serrano): https://www.youtube.com/watch?v=IpGxLWOIZy4
 * A Visual Introduction to Machine Learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * StitchFix algorithms: http://algorithms-tour.stitchfix.com/
-* Demo classifier(s) and clustering.
+* Demo classifier(s) and clustering.  https://teachablemachine.withgoogle.com/
 
 ## Class Activities
 
@@ -20,7 +20,7 @@ Also review this in class: Examples of trees: https://www.safaribooksonline.com/
 
 Decision making problem.  What would you do with the false positives and false negatives.  What is their impact?
 
-* Titanic, housing data.
+* Titanic, housing data.  Or labeling data.
 
 
 ## HW Reading (for Quiz)

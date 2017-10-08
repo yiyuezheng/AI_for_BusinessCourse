@@ -10,6 +10,7 @@
 	* Vis in tsne: http://colah.github.io/posts/2015-01-Visualizing-Representations/
 	* My Yelp word2vec: https://bl.ocks.org/arnicas/dd2ef348ad8854e40ef2
 	* Load job ads data into tensorboard too
+	* Yannick Assogba on Wes Anderson movies: http://clome.info/work/machine-visions/
 
 ## Class activity
 

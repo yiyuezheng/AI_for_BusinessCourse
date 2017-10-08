@@ -19,10 +19,12 @@ https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_
 	* Google Arts Experiments: https://www.google.com/culturalinstitute/beta/project
 	* Sketch-RNN demo: https://aiexperiments.withgoogle.com/sketch-rnn-demo
 
+* Yannick on Wes Anderson movies: http://clome.info/work/machine-visions/
 
 ## Class activities:
 
 Champagne or not? labels on data.  Retrain the inception model:
+
 * Model test from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#8
 
 
