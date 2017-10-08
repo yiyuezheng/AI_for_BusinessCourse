@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=8pHzROP1D-w (quiz questions)
 * Explaining Big Data: https://www.youtube.com/watch?v=7D1CQ_LOizA
 * What is Big Data and Hadoop: https://www.youtube.com/watch?v=FHVuRxJpiwI
 * More big data online: Google's BiQuery demo.
+* A Day in the Life of a NYC Taxi: http://chriswhong.github.io/nyctaxi/
 
 
 ## Class Activities
