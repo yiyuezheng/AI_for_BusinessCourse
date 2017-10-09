@@ -16,7 +16,7 @@ sc = SparkContext(conf=conf)
 
 
 # we take the raw data in CSV format and convert it into a set of records of the form (user, product, price)
-data = sc.textFile("data.csv").map(lambda line: line.split(",")).\
+data = sc.textFile("data/data.csv").map(lambda line: line.split(",")).\
     map(lambda record: (record[0], record[1], record[2]))
 # let's count the number of purchases
 numPurchases = data.count()

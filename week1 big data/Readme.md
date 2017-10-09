@@ -45,14 +45,12 @@ http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach
 
 ## Other HW (answer in the quiz!)
 
-* Find some datasets hosted on Amazon or Google. Do some research on datasets.  Find at least one containing over a GB of data.
+* Find some datasets hosted on Amazon or Google or another site with datasets. Do some research on datasets.  Find at least one containing over a GB of data.  Enter the link in the quiz.
 
 
 ## Group presentation assignments:
 
 * Spark - how is it different from Hadoop?
-* BigQuery - how are they different from Hadoop?
-* What are some tools for using Hadoop and how are they different? (We saw some in class)
-
+* BigQuery vs Firebase? How are they different?
 
 

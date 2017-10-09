@@ -3,7 +3,7 @@ from collections import Counter
 
 words = Counter()
 
-with open('capitals.txt') as handle:
+with open('data/capitals.txt') as handle:
     text = handle.read()
     text = text.replace("\n", " ")
     words.update(text.split(' '))
