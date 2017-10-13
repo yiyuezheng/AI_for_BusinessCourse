@@ -4,7 +4,10 @@
 
 ## In Class
 
-* Quick discussion:
+* Recommended list to subscribe to: Azeem Azhara's Exponential View:
+https://www.getrevue.co/profile/azeem
+
+* Quick discussion related to Carrefour data activity:
 	* Predicting the death of the Mall, One JC Penney at a Time: https://www.bloomberg.com/news/articles/2017-10-11/predicting-the-death-of-the-mall-one-j-c-penney-at-a-time?utm_content=graphics&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-graphics
 
 * Class presentations. (Fair game for quiz questions.)
@@ -35,16 +38,15 @@ In last 2 columns:
 
 ## HW Reading (for Quiz)
 
-* ROC Curve: http://www.dataschool.io/roc-curves-and-auc-explained/
 
-* How Spotify Recommends New Music: https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
 * Read Chaper 1 of "Weapons of Math Destruction" in Learning Hub (should be there now): "What is a Model."
-* Chapter 2 of Data Science for Business: https://www.safaribooksonline.com/library/view/data-science-for/9781449374273/ch02.html
 * Vocabulary Basics and relationships: Intro to AI and ML by Liza Daly
 https://worldwritable.com/ai-literacy-the-basics-of-machine-learning-2e20f93e34b4
 https://worldwritable.com/
-* Predication and Classification and Neural Nets: https://worldwritable.com/ai-literacy-what-artificial-intelligence-can-do-part-2-cbca0fc75a93
-* Terminology that appears in ML and some algorithms: https://www.becomingadatascientist.com/2017/07/17/introductory-machine-learning-terminology-with-food/
+* Chapter 2 of Data Science for Business (Fawcett and Provost): https://www.safaribooksonline.com/library/view/data-science-for/9781449374273/ch02.html
+* Terminology that appears in ML and some algorithms: https://www.becomingadatascientist.com/2017/07/17/
+* How Spotify Recommends New Music: https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
+introductory-machine-learning-terminology-with-food/
 * Bias/Variance: Overfitting and Underfitting, Bias-Variance Dilemma: https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/
 * On Perceptrons - to prepare for AI. https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
 
@@ -52,6 +54,6 @@ https://worldwritable.com/
 ## Homework presentation assignments
 
 * Precision/Recall
-
+* ROC Curve: http://www.dataschool.io/roc-curves-and-auc-explained/
 
 
