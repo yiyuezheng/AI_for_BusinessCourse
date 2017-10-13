@@ -18,8 +18,6 @@ http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
 
 Run logistic regression vs neural net. Results? (Iris example from Safari Online: https://www.safaribooksonline.com/oriole/getting-started-with-deep-learning-using-keras-and-python)
 
-Titanic: https://blog.socialcops.com/engineering/machine-learning-python/
-
 * Carrefour ML applications now?
 * Start working on homework research.
 
