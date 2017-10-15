@@ -15,9 +15,8 @@ https://www.getrevue.co/profile/azeem
 	* Firebase vs. BigQuery
 
 * Video, A Friendly Introduction to ML (Luis Serrano): https://www.youtube.com/watch?v=IpGxLWOIZy4
-* A Visual Introduction to Machine Learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-* StitchFix algorithms: http://algorithms-tour.stitchfix.com/
-* Demo classifier(s) and clustering.  https://teachablemachine.withgoogle.com/
+* A Visual Introduction to Machine Learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ (intro to decision trees)
+
 
 ## Class Activities
 
@@ -44,10 +43,13 @@ In last 2 columns:
 https://worldwritable.com/ai-literacy-the-basics-of-machine-learning-2e20f93e34b4
 https://worldwritable.com/
 * Chapter 2 of Data Science for Business (Fawcett and Provost): https://www.safaribooksonline.com/library/view/data-science-for/9781449374273/ch02.html
-* Terminology that appears in ML and some algorithms: https://www.becomingadatascientist.com/2017/07/17/
-* How Spotify Recommends New Music: https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
-introductory-machine-learning-terminology-with-food/
+* Vocabulary that appears in ML readings: https://www.becomingadatascientist.com/2017/07/17/introductory-machine-learning-terminology-with-food/
 * Bias/Variance: Overfitting and Underfitting, Bias-Variance Dilemma: https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/
+* Two examples of business applications of machine learning:
+	* How Spotify Recommends New Music: https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
+	* StitchFix algorithms: http://algorithms-tour.stitchfix.com/ (you don't need to understand any algorithm details, just get the overview of how
+	many ways machine learning is used here)
+
 * On Perceptrons - to prepare for AI. https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
 
 
