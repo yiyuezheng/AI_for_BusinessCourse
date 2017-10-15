@@ -31,8 +31,8 @@ Link: https://docs.google.com/spreadsheets/d/1SnQcJ-LrhWXj4OUN7SZ4CikVgJFYuVSR2u
 Your instructions:
 
 In last 2 columns:
-	* nouns that describe the picture
-	* your classification of each picture using 4 options on first page of Instructions.
+* nouns that describe the picture
+* your classification of each picture using 4 options on first page of Instructions.
 
 
 ## HW Reading (for Quiz)
@@ -49,13 +49,16 @@ https://worldwritable.com/
 	* How Spotify Recommends New Music: https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
 	* StitchFix algorithms: http://algorithms-tour.stitchfix.com/ (you don't need to understand any algorithm details, just get the overview of how
 	many ways machine learning is used here)
+* On Perceptrons - to prepare for AI next week (not heavy in quiz). https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
 
-* On Perceptrons - to prepare for AI. https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
+## Extra (Advanced) Reading If You Want (in Repo)
+
+* A Few Useful Things to Know About Machine Learning (Pedro Domingos), CACM article
 
 
-## Homework presentation assignments
+## Homework presentation assignments (5 Minutes only!)
 
-* Precision/Recall
-* ROC Curve: http://www.dataschool.io/roc-curves-and-auc-explained/
+* Precision/Recall/F1 scores/confusion matrix: What are these? Important evaluation terms for machine learning models.
+* ROC Curves: http://www.dataschool.io/roc-curves-and-auc-explained/
 
 
