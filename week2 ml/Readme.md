@@ -27,6 +27,8 @@ https://www.getrevue.co/profile/azeem
 * Do some image data labeling for classification algorithms using google sheets links and groups.  This is for a research project and for later in the class.
 
 Link: https://docs.google.com/spreadsheets/d/1SnQcJ-LrhWXj4OUN7SZ4CikVgJFYuVSR2uHTgTwGfcY/edit?usp=sharing
+Copy just in case: https://docs.google.com/spreadsheets/d/1LXo5WTq5SFW2D4mH1nEBCX-DWAJIKOSzJHoGITdGKB8/edit#gid=0
+
 
 Your instructions:
 
