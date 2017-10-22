@@ -22,11 +22,15 @@ http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
 
 * Run logistic regression vs neural net. Results? (Iris example from Safari Online: https://www.safaribooksonline.com/oriole/getting-started-with-deep-learning-using-keras-and-python)
 
-
 * Logistic regression and other demos: http://joonku.com/project/machine_learning
-* Demo classifier(s) and clustering.  https://teachablemachine.withgoogle.com/
 
-* Carrefour data: what are 5 possible data applications using either neural nets or machine learning.  Give the data type and the machine learning or neural net application that would help you accomplish it. (Feel free to do internet research.)
+Homework activities:
+
+* Demo classifier(s) and clustering.  https://teachablemachine.withgoogle.com/  Take some screencaps of your trained recognizer recognizing your images.
+
+* Solve the tensorflow spiral and take a screencap of your solution.
+
+* Carrefour data: what are 5 possible data applications using either neural nets or machine learning, using data available to Carrefour (that they may not be using).  Give the data type and the machine learning or neural net application that would help you accomplish it. (Feel free to do internet research.)
 
 
 ## Readings and Backup Videos for quiz
@@ -50,4 +54,6 @@ https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
 ## Homework Presentations (Randomly Picked)
 
 * AlphaGo recent result: https://deepmind.com/blog/alphago-zero-learning-scratch/
-* 
+* Present your 5 business applications of Carrefour data using ML/AI.
+
+
