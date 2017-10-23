@@ -51,9 +51,9 @@ https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
 	* Salesforce: https://www.wired.com/story/inside-salesforces-quest-to-bring-artificial-intelligence-to-everyone/
 
 
-## Homework Presentations (Randomly Picked)
+## Homework Presentations
 
 * AlphaGo recent result: https://deepmind.com/blog/alphago-zero-learning-scratch/
-* Present your 5 business applications of Carrefour data using ML/AI.
+* Volunteer to present your 5 business applications of Carrefour data using ML/AI.
 
 
