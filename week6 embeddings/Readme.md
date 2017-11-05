@@ -9,6 +9,7 @@
 	* for Analogies: http://bionlp-www.utu.fi/wv_demo/
 	* Vis in tsne: http://colah.github.io/posts/2015-01-Visualizing-Representations/
 	* My Yelp word2vec: https://bl.ocks.org/arnicas/dd2ef348ad8854e40ef2
+	* https://artsexperiments.withgoogle.com/tsnemap/#-1196.79,386.24,1731.92,-1448.74,0.00,1906.48
 	* Load job ads data into tensorboard too
 	* Yannick Assogba on Wes Anderson movies: http://clome.info/work/machine-visions/
 

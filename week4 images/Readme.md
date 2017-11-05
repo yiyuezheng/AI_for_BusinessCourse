@@ -2,13 +2,23 @@
 
 ## In class
 
+* Quiz results
+
+* 2 Presentations
+
+* Recent relevant news:
+	* Walmart robots: http://www.businessinsider.fr/uk/walmart-store-robot-program-expands-2017-10/
+	* Sidebars here: https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence
+	* https://techcrunch.com/2017/10/26/ebay-launches-visual-search-tools-that-let-you-shop-using-photos-from-your-phone-or-web/
+
 * FeiFei Li video talk:
 https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures
 * Intro video from Strata conf - just image part of it: https://www.safaribooksonline.com/learning-paths/learning-path-machine/9781491987346/9781491931011-video212013
 * Friendly Intro to CNNs and Images (30m) by Luis Serrano (for quiz): https://www.youtube.com/watch?v=2-Ol7ZB0MmU
 * Video backup by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
-* Video extract of Hot Dog or Not.  Read how they made it.
-	* https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+* Video extract of Hot Dog or Not.  
+	* Video clip: https://www.youtube.com/watch?v=vIci3C4JkL0
+	* Read how they made it: https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
 * Demos of image recognition:
 	* MNIST demos in the browser: http://myselph.de/neuralNet.html
 	* Watch it learn in Karpathy's demo: http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
@@ -23,7 +33,7 @@ https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_
 
 ## Class activities:
 
-Champagne or not? labels on data.  Retrain the inception model:
+Champagne or not? labels on data. Castle or not. Retrain the inception model using
 
 * Model test from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#8
 
