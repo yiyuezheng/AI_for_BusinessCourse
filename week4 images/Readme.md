@@ -32,14 +32,30 @@ https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_
 
 ## Class activities:
 
-Champagne or not? labels on data. Castle or not. Retrain the inception model using whisky images.
+Retraining the inception model using whisky images. Folder here:
+https://www.dropbox.com/sh/meg5ugf4iamigyw/AAAmDylCYzRd5mdlrHG_bsYVa?dl=0
 
-* Model test from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#8  (also this demo: https://www.youtube.com/watch?v=QfNvhPx5Px8)
 
-* Create your own example of style transfer using either a phone app (see below) or deepart.io: https://deepart.io/latest/
+Put images in these folders:
+ 
+* bottles pictures link: https://www.dropbox.com/request/otuikIEtWSemDKmESdZP
+* geography/scenery pictures: https://www.dropbox.com/request/76ZUXieSw5J4EAyo6Ygw
+* people (not hands with glasses): https://www.dropbox.com/request/FaphiwRi8sDi8rbUlu3H
+* glasses and hands-with-glasses: https://www.dropbox.com/request/ZH5kfnb6P1eMuhGvBBHH
+
+
+General link (but not sure it will work for uploads unless you have dropbox): Put images from your group worksheet into the folders with the right names: https://docs.google.com/spreadsheets/d/1SnQcJ-LrhWXj4OUN7SZ4CikVgJFYuVSR2uHTgTwGfcY/edit?usp=sharing
+
+
+* Model for retraining documented here from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#8  (also this demo: https://www.youtube.com/watch?v=QfNvhPx5Px8)
+
+Also:
+
+* Create your own examples of style transfer using either a phone app (see below) or deepart.io: https://deepart.io/latest/
 
 * Style transfer some photos in this demo: https://tenso.rs/demos/fast-neural-style/
 
+Upload a couple examples of style transfering on your pictures to the folder.
 
 
 ## Readings:
@@ -66,7 +82,7 @@ Champagne or not? labels on data. Castle or not. Retrain the inception model usi
 
 ## Homework Class Presentations
 
+* Presentation on Pix2Pix.
+* Presentation on GANs.
 
-Ideas for business applications using image recognition or style transfer. Use Carrefour if you want.
-Or art experiments you tried online.
 
